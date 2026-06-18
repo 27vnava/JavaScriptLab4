@@ -1,21 +1,21 @@
 document.write("04Operators_script.js is linked")
-// 1.  Write a JavaScript statement that logs the result of adding 1 and 2 to the console
+// 1. Addition
+console.log(10 + 5);
 
+// 2. Subtraction
+console.log(20 - 4);
 
-// 2.  Write a JavaScript statement that logs the result of subtracting 3 from 5 to the console
+// 3. Multiplication
+console.log(6 * 7);
 
+// 4. Division
+console.log(100 / 4);
 
-// 3.  Write a JavaScript statement that logs the result of multiplying 4 times 2 to the console
+// 5. Modulus (Reminded from Lab 3 - gives the remainder)
+console.log(10 % 3);
 
+// 6. Exponentiation (Power)
+console.log(2 ** 3);
 
-// 4.  Write a JavaScript statement that logs the result of dividing 5 by 2 to the console
-
-
-// 5.  Write a JavaScript statement that logs the remainder of 5 divided by 2
-console.log(5 % 2)
-
-// 6.  Write a JavaScript statement that logs the result of comparing 4 and 2 to see if they are equal (remember == is the comparison operator for equals)
-console.log(4 == 2)
-
-// 7.  Write a JavaScript statement that logs the result of 3 squared
-console.log(3 ** 2)
+// 7. Combined Operation (Order of Operations)
+console.log((5 + 5) * 2);

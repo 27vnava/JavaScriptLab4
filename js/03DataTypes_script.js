@@ -1,22 +1,21 @@
 document.write("03DataTypes_script.js is linked")
-// 1.  Write a JavaScript statement below that logs the data type of "hello" to the console"
+// 1. Addition
+console.log(10 + 5);
 
+// 2. Subtraction
+console.log(20 - 4);
 
-// 2.  Write a JavaScript statement below that logs the data type of 10 to the console"
+// 3. Multiplication
+console.log(6 * 7);
 
+// 4. Division
+console.log(100 / 4);
 
+// 5. Modulus (Reminded from Lab 3 - gives the remainder)
+console.log(10 % 3);
 
-// 3.  Write a JavaScript statement below that logs the data type of 5.5 to the console"
+// 6. Exponentiation (Power)
+console.log(2 ** 3);
 
-
-
-// 4.  Write a JavaScript statement below that logs the data type of true to the console"
-
-
-
-// 6.  Write a JavaScript statement below that logs the data type of ["a", "b", "c"] to the console"
-
-
-
-// 7.  Write a JavaScript statement below that logs the data type of myVariable to the console"
-
+// 7. Combined Operation (Order of Operations)
+console.log((5 + 5) * 2);
