@@ -5,6 +5,7 @@ console.log(10 + 5);
 // 2. Subtraction
 console.log(20 - 4);
 
+
 // 3. Multiplication
 console.log(6 * 7);
 
